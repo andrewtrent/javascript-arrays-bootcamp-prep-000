@@ -4,7 +4,7 @@ b = [e, ...a]
 return b
 }
 function destructivelyAddElementToBeginningOfArray(a,e){
-  var a = a
+  var  = a;
   a = [e, ...a]
   return a;
 }
